@@ -6,6 +6,6 @@
 - 🔭 I’m currently working with Node.js and AWS
 - 🌱 I’m currently learning Rust/Elixir
 - 👯 I’m looking to collaborate on all things back-end
-- 🤔 I’m looking for help with contributions for Open Source
+- 🤔 I’m looking to contribute on Open Source projects
 - 💬 Ask me about Node.js, AWS, MongoDB, Elastic Search, Redis, DynamoDB...
 - 📫 How to reach me: douglas.expalves@gmail.com
