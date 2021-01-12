@@ -9,3 +9,8 @@
 - 🤔 I’m looking to contribute on Open Source projects
 - 💬 Ask me about Node.js, AWS, MongoDB, Elastic Search, Redis, DynamoDB...
 - 📫 How to reach me: douglas.expalves@gmail.com
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougtq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DougTQ's github stats](https://github-readme-stats.vercel.app/api?username=dougtq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
