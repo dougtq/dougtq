@@ -3,8 +3,8 @@
 <!--
 **dougtq/dougtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working with Node.js and AWS
-- 🌱 I’m currently learning Rust/Elixir
+- 🔭 I’m currently working with Node.js, MongoDB, Elastic Search, Cloudformation and AWS
+- 🌱 I’m currently learning Rust/Elixir/Go/Python
 - 👯 I’m looking to collaborate on all things back-end
 - 🤔 I’m looking to contribute on Open Source projects
 - 💬 Ask me about Node.js, AWS, MongoDB, Elastic Search, Redis, DynamoDB...
