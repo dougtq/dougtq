@@ -4,7 +4,7 @@
 **dougtq/dougtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 Currently working with Node.js, MongoDB, Elastic Search, Cloudformation and AWS
-- 🌱 Currently learning Rust/Elixir/Go/Python
+- 🌱 Currently learning Elixir/Go
 - 👯 Looking to collaborate on all things back-end
 - 🤔 Looking to contribute on Open Source projects
 - 💬 Ask me about Node.js, AWS, MongoDB, Elastic Search, Redis, DynamoDB...
