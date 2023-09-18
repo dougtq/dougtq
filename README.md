@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dougtq"><img src="https://api.daily.dev/devcards/2bb94067fe1e458793a989cab644aa3f.png?r=uif" width="400" alt="Douglas Alves's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dougtq/dougtq/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ### Hi there 👋
 
