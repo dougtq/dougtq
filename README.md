@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/dougtq"><img src="https://api.daily.dev/devcards/2bb94067fe1e458793a989cab644aa3f.png?r=uif" width="400" alt="Douglas Alves's Dev Card"/></a>
+
 ### Hi there 👋
 
 <!--
@@ -11,6 +13,5 @@
 - 📫 How to reach me: douglas.expalves@gmail.com
 
 ### Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougtq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![DougTQ's github stats](https://github-readme-stats.vercel.app/api?username=dougtq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
